@@ -115,27 +115,27 @@ Act 只有两种正当动作。一种是把 Check 确认有效的做法固化下
 4. 关键在 Act：有效就固化（交给 SDCA 守住），无效就修正假设再循环，如此“变与守交替”，改进才会持续向上而不是原地打转。
 
 ## 参考文献
-
-[1] Bacon F. Novum Organum[M]. London, 1620.
-
-[2] Shewhart W A. Statistical Method from the Viewpoint of Quality Control[M]. Washington: The Graduate School, U.S. Department of Agriculture, 1939.
-
-[3] Deming W E. Out of the Crisis[M]. Cambridge, MA: MIT Center for Advanced Engineering Study, 1986.
-
-[4] Deming W E. The New Economics for Industry, Government, Education[M]. Cambridge, MA: MIT Center for Advanced Engineering Study, 1993.
-
-[5] Moen R, Norman C. Circling back: clearing up myths about the Deming cycle and seeing how it keeps evolving[J]. Quality Progress, 2010, 43(11): 22-28.
-
-[6] Imai M. Kaizen: The Key to Japan's Competitive Success[M]. New York: McGraw-Hill, 1986.
-
-[7] Langley G J, Nolan K M, Nolan T W, et al. The Improvement Guide: A Practical Approach to Enhancing Organizational Performance[M]. San Francisco: Jossey-Bass, 1996.
-
-[8] ISO. Quality management systems — Requirements: ISO 9001:2015[S]. Geneva: International Organization for Standardization, 2015.
-
-[9] Ries E. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses[M]. New York: Crown Business, 2011.
-
-[10] Alcaraz J L G, Limón Romero J, Duque Aguilar J I, et al. Integration of Kaizen-PDCA for economic and social sustainability in the manufacturing industry: a structural equation model[J]. Process Integration and Optimization for Sustainability, 2026.
-
-[11] Soto-Chambilla A, Fernández-Del-Carpio A, Córdova-Silva H, et al. KaizenAI: methodology for the integration of machine learning in manufacturing processes based on Kaizen principles. Case study: bottling industry[J]. Journal of Industrial Engineering and Management, 2026, 19(2): 245-259.
-
-[12] Ishikawa K. What is Total Quality Control? The Japanese Way[M]. Englewood Cliffs, NJ: Prentice-Hall, 1985.
+>[1] Bacon F. Novum Organum[M]. London, 1620.
+>
+>[2] Shewhart W A. Statistical Method from the Viewpoint of Quality Control[M]. Washington: The Graduate School, U.S. Department of Agriculture, 1939.
+>
+>[3] Deming W E. Out of the Crisis[M]. Cambridge, MA: MIT Center for Advanced Engineering Study, 1986.
+>
+>[4] Deming W E. The New Economics for Industry, Government, Education[M]. Cambridge, MA: MIT Center for Advanced Engineering Study, 1993.
+>
+>[5] Moen R, Norman C. Circling back: clearing up myths about the Deming cycle and seeing how it keeps evolving[J]. Quality Progress, 2010, 43(11): 22-28.
+>
+>[6] Imai M. Kaizen: The Key to Japan's Competitive Success[M]. New York: McGraw-Hill, 1986.
+>
+>[7] Langley G J, Nolan K M, Nolan T W, et al. The Improvement Guide: A Practical Approach to Enhancing Organizational Performance[M]. San Francisco: Jossey-Bass, 1996.
+>
+>[8] ISO. Quality management systems — Requirements: ISO 9001:2015[S]. Geneva: International Organization for Standardization, 2015.
+>
+>[9] Ries E. The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses[M]. New York: Crown Business, 2011.
+>
+>[10] Alcaraz J L G, Limón Romero J, Duque Aguilar J I, et al. Integration of Kaizen-PDCA for economic and social sustainability in the manufacturing industry: a structural equation model[J]. Process Integration and Optimization for Sustainability, 2026.
+>
+>[11] Soto-Chambilla A, Fernández-Del-Carpio A, Córdova-Silva H, et al. KaizenAI: methodology for the integration of machine learning in manufacturing processes based on Kaizen principles. Case study: bottling industry[J]. Journal of Industrial Engineering and Management, 2026,
+19(2): 245-259.
+>
+>[12] Ishikawa K. What is Total Quality Control? The Japanese Way[M]. Englewood Cliffs, NJ: Prentice-Hall, 1985.
