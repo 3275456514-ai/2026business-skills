@@ -10,8 +10,6 @@
 
 ### 思想起源与定名
 
-“持续改进”这套方法的正式名称是 PDCA 循环（Plan–Do–Check–Act Cycle），也常被称为戴明环或休哈特循环，由计划（Plan）、执行（Do）、检查（Check）、处理（Act）四个步骤构成，一轮一轮循环往复。
-
 它的思想源头可以追溯到 17 世纪英国哲学家弗朗西斯·培根（Francis Bacon）在《新工具》（*Novum Organum*, 1620）中提出的科学方法，即先提出假设、再通过实验验证、最后评价结果[1]。1939 年，美国贝尔电话实验室的统计学家沃尔特·安德鲁·休哈特（Walter Andrew Shewhart）在《从质量控制角度看统计方法》（*Statistical Method from the Viewpoint of Quality Control*）中，将其具体化为“规格—生产—检验”的三步循环，这便是 PDCA 的直接前身[2]。
 
 1950 年，与休哈特亦师亦友的美国统计学家威廉·爱德华兹·戴明（William Edwards Deming）应日本科学技术联盟（JUSE）之邀赴日讲学，把这套循环的思想传入日本，日本听众将它整理为今天通行的“计划—执行—检查—处理”四步，PDCA 之名由此定型，并随着日本质量管理走向世界，因此它又常被称为戴明环[3]。
@@ -143,7 +141,3 @@ Act 只有两种正当动作。一种是把 Check 确认有效的做法固化下
 [11] Soto-Chambilla A, Fernández-Del-Carpio A, Córdova-Silva H, et al. KaizenAI: methodology for the integration of machine learning in manufacturing processes based on Kaizen principles. Case study: bottling industry[J]. Journal of Industrial Engineering and Management, 2026, 19(2): 245-259.
 
 [12] Ishikawa K. What is Total Quality Control? The Japanese Way[M]. Englewood Cliffs, NJ: Prentice-Hall, 1985.
-
-[13] Pyzdek T, Keller P A. The Six Sigma Handbook[M]. 5th ed. New York: McGraw-Hill, 2018.
-
-[14] Coram R. Boyd: The Fighter Pilot Who Changed the Art of War[M]. New York: Little, Brown and Company, 2002.
